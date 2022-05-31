@@ -1,0 +1,27 @@
+**Advantages of Vue**
+- Vue is light weight and short.
+- Huge community of Vue
+
+
+**Core of Vue**
+- In web world the web-frontend get made with the intersection of 3 things -
+    1. HTML
+    2. CSS
+    3. JavaScript
+
+- In Vue we have:
+    1. Template
+    2. Style 
+    3. Script
+
+
+**Some Jargons**
+- Property binding
+    1. v-model
+    2. v-if
+    3. v-for
+    4. @blur
+    5. @click
+    6. $emit
+
+- nextTick() - One of the famous feature of Vue. It updates the data at runtime.
